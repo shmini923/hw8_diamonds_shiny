@@ -87,7 +87,7 @@ server <- function(input, output) {
 }
 
     
-# This is a test of pulling a request for the homework8 -HS    
+# This is a test of pulling a request for the homework8 -HS 2
     
 
 # Run the application 
