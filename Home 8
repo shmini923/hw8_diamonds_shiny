@@ -29,7 +29,7 @@ ui <- fluidPage(
         sidebarPanel(
                # This is a range slider (i.e. there's a max and min). It is set that way by "value" (the starting value), which is a 2-element vector
             sliderInput("caratrange",
-                    "Range of carats",
+                    "Rabbits like carats!!!!",
                     min = min.carat,
                     max = max.carat,
                     value = c(min.carat, max.carat)),
