@@ -1,1 +1,4 @@
 Changed action button to "Do it!!"
+
+Decided to remove "color" from UI and therefore also removed from Server
+
